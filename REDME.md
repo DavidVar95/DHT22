@@ -5,7 +5,7 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor DHT22.
 
 ### Descripción
 
-La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (```DTH11```) para adquirir temperatura y humedad del entorno; Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
+La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (```DTH22```) para adquirir temperatura y humedad del entorno; Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
 
 ### Algunas aplicaciones para un DHT22
 -Control de ambiente en criaderos 
@@ -18,7 +18,7 @@ Para realizar esta practica necesitas lo siguiente
 
 - [WOKWI](https://https://wokwi.com/)
 - Tarjeta ESP 32
-- Sensor DHT11
+- Sensor DHT22
 
 
 
@@ -61,7 +61,7 @@ void loop() {
 
 ![](https://github.com/DiegoJm10/PracticaDHT/blob/main/Libreria%20DHT.png?raw=true)
 
-3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
+3. Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguente imagen.
 
 ![](https://raw.githubusercontent.com/DavidVar95/PRACTICA_DHT22/d7ded6c3fb3b2ccd9c7335f171fab8f34c765848/Captura%20de%20pantalla%202023-06-09%2021.00.01.png)
 
