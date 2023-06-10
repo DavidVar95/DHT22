@@ -1,5 +1,5 @@
-# Practica ESP32 con DHT11
-Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11.
+# Practica ESP32 con DHT22
+Este repositorio muestra como podemos programar una ESP32 con el sensor DHT22.
 
 ## Introducción
 
@@ -7,6 +7,10 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11.
 
 La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (```DTH11```) para adquirir temperatura y humedad del entorno; Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
 
+### Algunas aplicaciones para un DHT22
+-Control de ambiente en criaderos 
+-conservacion de alimentos 
+-control de calidad para ciertas materias primas para la industria
 
 ## Material Necesario
 
@@ -59,7 +63,7 @@ void loop() {
 
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m.%20(2).png?raw=true)
+![](https://raw.githubusercontent.com/DavidVar95/PRACTICA_DHT22/d7ded6c3fb3b2ccd9c7335f171fab8f34c765848/Captura%20de%20pantalla%202023-06-09%2021.00.01.png)
 
 ### Instrucciónes de operación
 
@@ -71,7 +75,7 @@ void loop() {
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m..png?raw=true)
+![](https://raw.githubusercontent.com/DavidVar95/PRACTICA_DHT22/ac0b6ee4e64be1531f036eaf31fbd70720ade159/Captura%20de%20pantalla%202023-06-09%2020.51.50.png)
 
 
 
