@@ -80,13 +80,8 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 
 
-## Evidencias
-
-[Video de Youtube](https://https://wokwi.com/)
-
 
 # Créditos
 
-Desarrollado por Ing. Diego Jasso Miranda
+Desarrollado por Ing. David Vargas Gonzalez
 
-- [GitHub](https://github.com/DiegoJm10)
